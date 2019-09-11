@@ -9,8 +9,7 @@
         "url": "https://github.com/syncfusion/ej2-quickstart.git"
     },
     "dependencies": {
-        "@syncfusion/ej2": "*",
-        "@syncfusion/ej2-filemanager": "*"
+        "@syncfusion/ej2": "*"
     },
     "devDependencies": {
         "browser-sync": "^2.18.12",
